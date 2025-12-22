@@ -1,7 +1,7 @@
 # Advanced Vision 2025 – CNN with Skip Connection
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/basiliskv/advanced-vision-2025/blob/main/advanced_vision_kadai2025.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basiliskv/advanced-vision-2025/blob/main/advanced_vision_kadai2025.ipynb)
+
 
 アドバンスドビジョン（2025年度）の課題として作成したリポジトリです。
 
