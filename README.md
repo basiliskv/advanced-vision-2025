@@ -1,4 +1,4 @@
-# Advanced Vision 2025 – CNN with Skip Connection
+# Advanced Vision 2025
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/basiliskv/advanced-vision-2025/blob/main/advanced_vision_kadai2025.ipynb)
 
@@ -35,7 +35,7 @@ CNNのサンプル実装をベースに，ネットワーク構造を一部拡�
 
 - 入力：28 × 28 × 1
 - 畳み込み層：5×5 → 3×3 → 3×3
-- 最初の畳み込み層の出力を，後段の出力と **加算（skip connection）**
+- 最初の畳み込み層の出力を，後段の出力と 加算（スキップ接続）
 - 加算後に ReLU，Max Pooling を適用
 - 全結合層（100ユニット）を経て10クラス分類
 
