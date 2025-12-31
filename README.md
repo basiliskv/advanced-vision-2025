@@ -122,12 +122,48 @@ $p_k$ は，入力データがクラス $k$ に属する確率として表され
 
 ---
 
-## 実装環境
+## 実行方法
 
-- Python 3.10  
-- NumPy  
+本ノートブック（`advanced_vision_kadai2025.ipynb`）は，
+Google Colab およびローカル環境のいずれでも実行できます。
 
 ---
+
+### Google Colab で実行（推奨）
+
+README 上部の **Open in Colab** バッジをクリックすることで，
+そのまま実行できます。
+ノートブック内のセルを上から順に実行してください。
+
+---
+
+### ローカル環境で実行
+
+ローカルで実行する場合は，以下の環境が必要です。
+
+#### 必要なライブラリ
+- Python 3.x
+- Jupyter Notebook
+- TensorFlow
+- NumPy
+- Matplotlib
+
+#### 実行手順
+
+1. 必要なライブラリをインストールします。
+```bash
+pip install jupyter tensorflow numpy matplotlib
+```
+
+2. Jupyter Notebook を起動します。
+```bash
+jupyter notebook
+```
+
+3. ブラウザが自動で開くので，  
+   `advanced_vision_kadai2025.ipynb` を選択し，  
+   セルを上から順に実行してください。
+
 
 ## License
 
