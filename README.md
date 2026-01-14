@@ -169,9 +169,15 @@ jupyter notebook
 
 This project is licensed under the MIT License.
 
-This repository includes modified code based on examples from:
+This repository includes code based on:
+
+- **oreilly-japan / deep-learning-from-scratch**  
+  https://github.com/oreilly-japan/deep-learning-from-scratch/tree/master
+
+which accompanies the book:
 
 "ゼロから作る Deep Learning ― Pythonで学ぶディープラーニング"  
 斎藤 康毅，オライリー・ジャパン  
 
 The original code is provided under the MIT License.
+
